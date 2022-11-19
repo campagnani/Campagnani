@@ -1,7 +1,9 @@
 # Thalles Oliveira Campagnani
 
 Engenheiro Mecatrônico (CEFET-MG)
+
 Mestrando em Engenharia Nuclear na UFMG
+
 
 Email: [ThallesCampagnani@gmail.com](mailto:ThallesCampagnani@gmail.com)
 
