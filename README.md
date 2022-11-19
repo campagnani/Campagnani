@@ -1,6 +1,7 @@
 # Thalles Oliveira Campagnani
 
-Estudante de Engenharia Mecatrônica pelo CEFET-MG
+Engenheiro Mecatrônico (CEFET-MG)
+Mestrando em Engenharia Nuclear na UFMG
 
 Email: [ThallesCampagnani@gmail.com](mailto:ThallesCampagnani@gmail.com)
 
@@ -10,4 +11,4 @@ Facebook: [ThallesOC](https://Facebook.com/ThallesOC)
 
 Currículo Lattes: [9804313355470338](http://Lattes.CNPq.br/9804313355470338)
 
-WeChat/Telegram ID: Campagnani
+Telegram ID: Campagnani
